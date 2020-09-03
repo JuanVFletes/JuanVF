@@ -19,7 +19,7 @@ Right now I use a lot Python, but, i am open to learn any language 😄
 
 Here are the ones i use the most. 😊
 
-![](https://img.shields.io/badge/Libs-React-informational?style=flat&logo=react&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-VueJS-informational?style=flat&logo=v&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-PyGame-informational?style=flat&logo=Python&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-PyGame-informational?style=flat&logo=Python&logoColor=white&color=DC4C08)
+![](https://img.shields.io/badge/Libs-React-informational?style=flat&logo=react&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-VueJS-informational?style=flat&logo=v&logoColor=white&color=DC4C08) ![](https://img.shields.io/badge/Libs-PyGame-informational?style=flat&logo=Python&logoColor=white&color=DC4C08)
 
 ---
 ## Frameworks 
