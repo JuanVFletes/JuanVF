@@ -46,5 +46,5 @@ Or you can email me at: juanvfletes@gmail.com
 [2.2]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-16.png (LinkedIn icon without padding)
 
 [1]: https://twitter.com/juanvfletes
-[2]: https://www.linkedin.com/in/juan-jos%C3%A9-vargas-fletes-982998178/
+[2]: https://www.linkedin.com/in/juanvfletes/
 
