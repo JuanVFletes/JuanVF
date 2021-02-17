@@ -37,6 +37,7 @@ You can find me in:
 
 - Twitter [![Twitter][1.2]][1]
 - LinkedIn [![LinkedIn][2.2]][2]
+- Chronzy (About me)[![Chronzy][3.3]][3]
 
 Or you can email me at: juanvfletes@gmail.com
 
@@ -44,7 +45,8 @@ Or you can email me at: juanvfletes@gmail.com
 
 [1.2]: https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-16.png (twitter icon without padding)
 [2.2]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-16.png (LinkedIn icon without padding)
+[3.3]: https://chronzy.com/favicon.ico (Chronzy icon without padding)
 
 [1]: https://twitter.com/juanvfletes
 [2]: https://www.linkedin.com/in/juanvfletes/
-
+[3]: https://chronzy.com/JuanVF
