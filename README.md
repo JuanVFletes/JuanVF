@@ -1,6 +1,13 @@
 ![Header](https://raw.githubusercontent.com/JuanVF/JuanVF/master/Banner.png "Header")
 ---
 # Hi, Welcome to my GitHub! 💜 [ENG/ES]
+
+👋 I am a computer science student from Costa Rica Institute of Technology. 😄
+I love working in Game Development, Backend or Frontend projects, basically, any field that involves a design or creative process 🖌️
+Right now, I am an IEEE TEC Student Branch member working as a Design Master. 🎨
+
+You can checkout all about my hard skills down below 👇
+
 ---
 ### Prefered OS
 I mostly work on Windows because I need some apps that requires Windows, but, I also work in Linux because i love it 💙
