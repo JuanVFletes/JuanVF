@@ -1,8 +1,8 @@
 ![Header](https://raw.githubusercontent.com/JuanVF/JuanVF/master/Banner.png "Header")
 ---
-# Hi, Welcome to my GitHub! 💜 [ENG/ES]
+# Hi, Welcome to my GitHub! 💜 [ENG/ES/Learning French]
 
-👋 I am a computer science student from Costa Rica Institute of Technology. 😄
+👋 Hi! I am a computer science student from Costa Rica Institute of Technology. 😄
 I love working in Game Development, Backend or Frontend projects, basically, any field that involves a design or creative process 🖌️
 Right now, I am an IEEE TEC Student Branch member working as a Design Master. 🎨
 
